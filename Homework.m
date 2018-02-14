@@ -1,6 +1,4 @@
 clear all
-
-
 x=randn(1000,1); X=x;
 y=randn(1000,1);
 cor=0.1;
